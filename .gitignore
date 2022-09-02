@@ -130,3 +130,4 @@ dmypy.json
 
 # MaacOSX
 .DS_Store
+US data/State_list.csv:Zone.Identifier

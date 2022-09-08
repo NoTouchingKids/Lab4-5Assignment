@@ -2,7 +2,7 @@
 Weight used: null
 "Universe: default universe (usually US)"
 "","Age recode (AGEP_RC1)","","","","","","","","",""
-"Place of birth (Recode)","Total","Between 5 and 14","Between 5 and 14","Between 15 and 24","Between 25 and 44","Between 45 and 54","Between 55 and 64","Between 65 and 74","Between 75 and 84","Between 85 and Over"
+"Place of birth (Recode)","Total","Between 0 and 4","Between 5 and 14","Between 15 and 24","Between 25 and 44","Between 45 and 54","Between 55 and 64","Between 65 and 74","Between 75 and 84","Between 85 and Over"
 " -> Total","15441673","769960","1766113","1910540","3650582","1976966","2273698","1807172","910015","376627"
 "Alabama/AL","226907","10616","23684","24878","46570","27630","34687","33127","18856","6859"
 "Alaska/AK","33153","2514","5662","5254","9327","3593","3917","1914","688","284"
